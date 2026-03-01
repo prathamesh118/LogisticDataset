@@ -1,1 +1,2 @@
 # LogisticDataset
+The WBU Logistics Dataset represents a structured delivery management system that includes operational data related to drivers, vehicles, hubs, and customer orders. This project focuses on analyzing logistics operations to understand delivery performance, resource utilization, and operational efficiency. The dataset simulates real-world supply chain activities and can be used for data analysis, visualization, and machine learning applications.
